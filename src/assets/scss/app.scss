@@ -1,0 +1,18 @@
+
+//Fonts
+@import "custom/fonts/fonts";
+
+//Core files
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "config/variables";
+@import "../../../node_modules/bootstrap/scss/mixins.scss";
+
+
+// Structure
+@import "custom/structure/layouts";
+
+// Plugins
+@import "custom/plugins/datatable";
+@import 'custom/plugins/react-table';
+

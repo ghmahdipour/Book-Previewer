@@ -1,0 +1,18 @@
+// 
+// pagination.scss
+//
+
+.pagination-rounded {
+    .page-link {
+        border-radius: 30px !important;
+        margin: 0 3px;
+        border: none;
+        padding: 0.5rem 0.75rem;
+        background-color: #fff;
+        
+    }
+    .page-item.active .page-link {
+        background-color: $pagination-color-item;
+        border-color: $pagination-color-item;;
+    }
+}

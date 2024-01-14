@@ -1,0 +1,13 @@
+
+//Core files
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "config/variables";
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+//Components
+@import "custom/components/card";
+@import "custom/components/pagination";
+@import "custom/components/reboot";
+@import "custom/components/tables";
+@import "custom/components/type";

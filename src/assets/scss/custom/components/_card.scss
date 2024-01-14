@@ -1,0 +1,21 @@
+// 
+// card.scss
+//
+
+.card {
+    background-color: $white;
+    border-radius: $card-border-radius;
+    border-width: $card-border-width;
+    box-shadow: $card-box-shadow;
+}
+
+.header-title {
+    font-size: 34px;
+    margin: 0 0 7px 0;
+    font-weight: 700;
+}
+
+// Card title / Card Header
+.card-title {
+   font-size: 35px;
+}

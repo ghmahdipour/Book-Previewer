@@ -1,0 +1,60 @@
+// Variables
+//
+// custom-variables
+//
+
+// scss-docs-start border-radius-variables
+$border-radius:            22px;
+
+// Border-color
+$border-color:            #ebeef5;
+
+//box-shadow
+$box-shadow-color:       #5D5FEF66;
+
+// px
+$px-0:                   0px;
+$px-1:                   1px;
+$px-2:                   2px;
+$px-3:                   3px;
+$px-3:                   3px;
+
+
+// Color system
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #f6f6f7;
+$gray-300: #e2e7f1;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #4B4B5A;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
+$body-bg:                #F2F5FF;
+$pagination-color-item:  #5D5FEF;
+
+// Text-color (h1 to h6)
+$text-color-h:           #5D5FEF;
+
+$card-border-radius:     var(--#{$prefix}border-radius);
+$card-border-width:      0;
+$card-box-shadow:        $px-1 $px-2 $px-3 $px-0 $box-shadow-color;
+
+// Tables
+$table-bg:               var(--#{$prefix}$white);
+$table-cell-padding-y:        .8rem;
+$table-cell-padding-x:        .8rem;
+$table-rowgroup-row-border-width:        2px;
+// $table-row-border-color:        1px;
+
+//Pagination
+$pagination-focus-box-shadow:     $px-0 $px-0 $px-0 $px-0 $white;
+$pagination-focus-outline:          0;
+
+
+
+
+
